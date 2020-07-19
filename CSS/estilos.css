@@ -1,5 +1,22 @@
+<<<<<<< HEAD
 body {
     color: deeppink;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+=======
+body
+{
+    color: dark;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cabecera
+{
+    font-size: 25px;
+    background-color: darkslategray;
+    font-weight: bold;
+    margin: 0px;
+    box
+    color: #ffffff;
+>>>>>>> cabecera
 }
